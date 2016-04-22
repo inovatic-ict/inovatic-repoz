@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Emoro 2560",
+          "name": "OpenTracker Boards (32-bits ARM Cortex-M3)",
           "architecture": "sam",
           "version": "1.0.2",
           "category": "Contributed",
