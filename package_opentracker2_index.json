@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "opentracker",
+      "name": "Emoro2560",
       "maintainer": "Inovatic-ICT",
       "websiteURL": "https://www.inovatic-ict.com/",
       "email": "support@geolink.io",
@@ -23,12 +23,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "bossac",
               "version": "1.4-opentracker"
             }
@@ -48,12 +48,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "bossac",
               "version": "1.4-opentracker"
             }
@@ -73,12 +73,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "opentracker",
+              "packager": "Emoro2560",
               "name": "bossac",
               "version": "1.4-opentracker"
             }
