@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "opentracker",
-      "maintainer": "Geolink",
-      "websiteURL": "https://geolink.io/",
+      "name": "Emoro",
+      "maintainer": "Inovatic",
+      "websiteURL": "https://www.inovatic-ict.com/",
       "email": "support@geolink.io",
       "help": {
         "online": "https://geolink.io/opentracker.php"
