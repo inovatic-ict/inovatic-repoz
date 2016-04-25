@@ -14,10 +14,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://raw.github.com/inovatic-ict/inovatic-repoz/master/EMoRo_2560.zip",
-          "archiveFileName": "EMoRo_2560.zip",
-          "checksum": "SHA-256:7DCC50A3E692D7DB4AEE0CD60D5BEABE7BE50C43B2849A31E51862C39BEE5CCF",
-          "size": "842230",
+          "url": "https://raw.github.com/inovatic-ict/inovatic-repoz/master/emoro2560.zip",
+          "archiveFileName": "emoro2560.zip",
+          "checksum": "SHA-256:DFEB0ACBCA2BAC8D35F2CD5D1140DAC5E78ECC8FC62D69969A5E365DF7FE1E3A",
+          "size": "841338",
           "boards": [
             {"name": "EMoRo 2560"}
           ],
