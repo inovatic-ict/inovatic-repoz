@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.0 ",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/inovatic-ict/inovatic-repoz/blob/master/EMoRo_2560.zip",
+          "url": "https://raw.githubusercontent.com/inovatic-ict/inovatic-repoz/master/EMoRo_2560.zip",
           "archiveFileName": "Emoro_2560.zip",
           "checksum": "SHA-256:EC7FF1734E54C85CB895CA4D0ACFACF8AD442A9F5C362CAB8F098793F2ED8A16",
           "size": "838960",
