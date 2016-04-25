@@ -10,16 +10,16 @@
       },
       "platforms": [
         {
-          "name": "EMoRo2560 Board (32-bits)",
+          "name": "EMoRo2560 Board",
           "architecture": "avr",
           "version": "1.0.0 ",
           "category": "Contributed",
-          "url": "https://github.com/inovatic-ict/inovatic-repoz/blob/master/EMoRo_2560.zip",
+          "url": "https://raw.githubusercontent.com/inovatic-ict/inovatic-repoz/blob/master/EMoRo_2560.zip",
           "archiveFileName": "Emoro_2560.zip",
-          "checksum": "SHA-256:198e87eb6a4ee665571ed79b03bf52ef4efd499bda440aa2a88963d04f26c6e0",
-          "size": "839619",
+          "checksum": "SHA-256:EC7FF1734E54C85CB895CA4D0ACFACF8AD442A9F5C362CAB8F098793F2ED8A16",
+          "size": "838960",
           "boards": [
-            {"name": "EMoRo2560 Board"}
+            {"name": "EMoRo 2560"}
           ],
           "toolsDependencies": [
             {
