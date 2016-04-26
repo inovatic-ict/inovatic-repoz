@@ -22,11 +22,7 @@
             {"name": "EMoRo 2560"}
           ],
           "toolsDependencies": [
-            {
-              "packager": "emoro",
-              "name": "arm-none-eabi-gcc",
-              "version": "4.8.3-2014q1"
-            }
+            
           ]
         }
       ],
