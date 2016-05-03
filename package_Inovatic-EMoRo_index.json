@@ -3,10 +3,10 @@
     {
       "name": "emoro",
       "maintainer": "Inovatic-ICT",
-      "websiteURL": "https://www.inovatic-ict.com/",
+      "websiteURL": "http://www.inovatic-ict.com/",
       "email": "support@inovatic-ict.com",
       "help": {
-        "online": "https://www.inovatic-ict.com/"
+        "online": "http://www.inovatic-ict.com/"
       },
       "platforms": [
         {
