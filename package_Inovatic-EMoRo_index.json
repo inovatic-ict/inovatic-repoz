@@ -12,7 +12,7 @@
         {
           "name": "EMORO 2560",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "v3.2",
           "category": "Contributed",
           "url": "https://raw.github.com/inovatic-ict/inovatic-repoz/master/EMoRo_2560.zip",
           "archiveFileName": "EMoRo_2560.zip",
