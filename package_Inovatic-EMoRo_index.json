@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://raw.github.com/inovatic-ict/inovatic-repoz/master/EMoRo_2560.zip",
           "archiveFileName": "EMoRo_2560.zip",
-          "checksum": "SHA-256:7EB575A1B94263DEF756E5D7589A026C4F89745CADC43529D95560AD04172E26",
-          "size": "846962",
+          "checksum": "SHA-256:8DFC8BB1AD9F573BF355AFAB1D4231F81E42345E1DD4AC98E4B74019BFD699D3",
+          "size": "846949",
           "boards": [
             {"name": "EMoRo 2560"}
           ],
