@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "EMORO 2560",
+          "name": "EMoRo2560",
           "architecture": "avr",
           "version": "3.2",
           "category": "Contributed",
