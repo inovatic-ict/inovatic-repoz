@@ -3,14 +3,14 @@
     {
       "name": "emoro",
       "maintainer": "Inovatic-ICT",
-      "websiteURL": "http://www.inovatic-ict.com/",
+      "websiteURL": "http://www.emoro.eu",
       "email": "support@inovatic-ict.com",
       "help": {
-        "online": "http://www.inovatic-ict.com/"
+        "online": "http://www.emoro.eu/"
       },
       "platforms": [
         {
-          "name": "EMoRo2560",
+          "name": "EMoRo 2560",
           "architecture": "avr",
           "version": "3.2",
           "category": "Contributed",
