@@ -19,7 +19,7 @@
           "checksum": "SHA-256:7CB854A286DF5B62E5E46BB74959C0540496E21731C2D3A1AA3E725A0B99415A",
           "size": "846418",
           "boards": [
-            {"name": "EMoRo2560"}
+            {"name": "EMoRo 2560. Board based on ATmega 2560 MCU."}
           ],
           "toolsDependencies": [
             
