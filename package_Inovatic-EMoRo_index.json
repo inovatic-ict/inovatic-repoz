@@ -16,8 +16,8 @@
           "category": "Partner",
           "url": "https://raw.github.com/inovatic-ict/inovatic-repoz/master/EMoRo_2560.zip",
           "archiveFileName": "EMoRo_2560.zip",
-          "checksum": "SHA-256:601F522E4983B76FE04E46748852CEDF6A7667F939292C67F455B9282AC6E9A7",
-          "size": "759085",
+          "checksum": "SHA-256:56DD308FC2F84229688F6219A4C31629EC9B38BDADCD382C45FAE9247B94F051",
+          "size": "846444",
           "boards": [
             {"name": "EMoRo 2560. Board based on ATmega 2560 MCU"}
           ],
